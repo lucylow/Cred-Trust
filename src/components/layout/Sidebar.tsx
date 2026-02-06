@@ -1,20 +1,25 @@
+ import React from "react";
  import { NavLink, useLocation } from "react-router-dom";
  import { motion } from "framer-motion";
  import { cn } from "@/lib/utils";
  import {
-  Gauge,
+   LayoutDashboard,
+   FileUp,
    Store,
    BarChart3,
    Presentation,
-  Shield,
+   Cpu,
+   Wallet,
  } from "lucide-react";
  
  const navItems = [
-  { to: "/app", label: "Risk Engine", icon: Gauge },
+   { to: "/app", label: "Dashboard", icon: LayoutDashboard },
+   { to: "/app/submit", label: "Submit Data", icon: FileUp },
    { to: "/app/marketplace", label: "Marketplace", icon: Store },
    { to: "/app/analytics", label: "Analytics", icon: BarChart3 },
-  { to: "/app/tee", label: "TEE Demo", icon: Shield },
    { to: "/app/slides", label: "Slides", icon: Presentation },
+   { to: "/app/tee", label: "TEE Demo", icon: Cpu },
+   { to: "/app/nft", label: "My NFTs", icon: Wallet },
  ];
  
  interface SidebarProps {
