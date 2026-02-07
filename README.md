@@ -413,7 +413,6 @@ await orchestrator.processGoal('Score my wallet');
 
 ## 📄 License
 
-[
 
 **Made with ❤️ for Hack4Privacy 2026**
 
