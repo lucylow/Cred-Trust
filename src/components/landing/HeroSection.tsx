@@ -15,7 +15,7 @@ const HeroSection = () => {
   const stats = [
     { value: "300ms", label: "Proof Gen", icon: Zap },
     { value: "99.9%", label: "Uptime", icon: Shield },
-    { value: "Winner", label: "Hack4Privacy", icon: Award },
+    { value: "Hackathon", label: "Hack4Privacy", icon: Award },
     { value: "Mainnet", label: "Ready", icon: Cpu },
   ];
 
