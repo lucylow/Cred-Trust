@@ -24,7 +24,7 @@
 
 ## 🎯 Overview
 
-**CredTrust 12** is a production-ready confidential credit scoring platform built for **Hack4Privacy 2026** using **iExec TDX Trusted Execution Environments (TEE)**, **Arbitrum Sepolia**, and **5 autonomous ElizaOS AI agents**.
+**CredTrust** is a production-ready confidential credit scoring platform built for **Hack4Privacy 2026** using **iExec TDX Trusted Execution Environments (TEE)**, **Arbitrum Sepolia**, and **5 autonomous ElizaOS AI agents**.
 
 ### 🌟 Key Capabilities
 ```
