@@ -294,7 +294,7 @@ npm run dev
 
 ***
 
-## 🧪 Mock Data
+## 🧪 Data
 
 ### 📈 Realistic Production Data (10k+ lines)
 
